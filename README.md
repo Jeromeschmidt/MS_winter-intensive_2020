@@ -22,7 +22,7 @@ Since Titanvest only chooses the top 20 stocks they believe to be high-performin
 * [Stock Universe](https://www.investopedia.com/terms/u/universeofsecurities.asp): Collection of equities being traded
 
 ## Tools/Resources used
-* 13F Reports from [WhaleWisdom](https://whalewisdom.com/)
+* 13F Reports acquired from [WhaleWisdom](https://whalewisdom.com/)
 * Developed backtesting strategy on [Quantopian](https://www.quantopian.com/home)
 * Backtests written in python 3.5
 * Zipline API used in Quantopian backtest
@@ -55,7 +55,7 @@ SCHW | GOOG
 
 
 ## Backtesting
-After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentim based strategy.
+After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentum based strategy.
 
 * Initial Capital: $10,000,000
 * Start Date: 2011-01-04
@@ -98,7 +98,7 @@ From the backtests results above, it is easy to see that over the timespan we te
 The alternative way of weighting the positions in the backtests was a variation of a momenntum trading model. It would look at price changes for the last 3 days to try to predict if a particular position would increase or decrease. It is also clear that even though we were trying to optimize the portfolio for higher returns, the opposite happened. While there were positive returns, they were not as large as if the equities were just equally weighted. The Sharpe ratio also decreased.
 
 ## Conclusion
-In conclusion, I believe I did well in terms of finding stocks from 13F forms as compared to Titanvest. While Titanvest moniters about 175 different hedge funds, I only looked at 11 of them and while my portfolio's performance wasn't as good, it was greater than the performance of the S&P 500 during that time span. I also hoped to implement a more sophisticated method for weighting the stocks in the portfolio in an unequal way but due to time constraints and not much knowledge in the area, I was unable to do this. I hope to continue to improve on the methods I employed here to optimize performance and learn in more depth what it takes to build a successful quantitative trading model
+In conclusion, I believe I did well in terms of finding stocks from 13F forms as compared to Titanvest. While Titanvest moniters about 175 different hedge funds, I only looked at 11 of them and while my portfolio's performance wasn't as good, it was greater than the performance of the S&P 500 during that time span. I also hoped to implement a more sophisticated method for weighting the stocks in the portfolio in an unequal way but due to time constraints and not much knowledge in the area, I was unable to do this. I hope to continue to improve on the methods I employed here to optimize performance and learn in more depth what it takes to build a successful quantitative trading model.
 
 ## References
 [Quantopian](https://www.quantopian.com/home)
