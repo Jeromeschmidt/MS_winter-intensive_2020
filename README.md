@@ -82,6 +82,11 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 ### Portfolio with changing weights
 #### Titanvest
 
+<img src="data_and_backtests/backtests/unequal_weights/titan/main/ue-titan-main.png" alt="drawing" width="500"/>
+<img src="data_and_backtests/backtests/unequal_weights/titan/performance/ue-titan-perf.png" alt="drawing" width="300"/>
+<img src="data_and_backtests/backtests/unequal_weights/titan/risk/ue-titan-risk.png" alt="drawing" width="300"/>
+
+
 #### My Portfolio
 
 #### Comparisons
