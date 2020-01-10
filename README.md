@@ -101,3 +101,7 @@ The alternative way of weighting the positions in the backtests was a variation 
 In conclusion, I believe I did well in terms of finding stocks from 13F forms as compared to Titanvest. While Titanvest moniters about 175 different hedge funds, I only looked at 11 of them and while my portfolio's performance wasn't as good, it was greater than the performance of the S&P 500 during that time span. I also hoped to implement a more sophisticated method for weighting the stocks in the portfolio in an unequal way but due to time constraints and not much knowledge in the area, I was unable to do this. I hope to continue to improve on the methods I employed here to optimize performance and learn in more depth what it takes to build a successful quantitative trading model
 
 ## References
+[Quantopian](https://www.quantopian.com/home)
+[Quantopian Forums](https://www.quantopian.com/posts)
+[Investopedia](https://www.investopedia.com/)
+[Towards Data](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
