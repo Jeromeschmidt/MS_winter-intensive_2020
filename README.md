@@ -64,7 +64,9 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 *STRUCTURAL CONSTRAINTS MET and RISK CONSTRAINTS MET can be ignored, those have to do with Quantopian hosted competitions*
 
 ### Equally Weighted Portfolio
-#### Titanvest
+#### Titanvest 
+![alt text](https://github.com/Jeromeschmidt/MS_winterintensive_2020/blob/master/data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png)
+
 
 #### My Portfolio
 
