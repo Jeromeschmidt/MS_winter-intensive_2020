@@ -21,6 +21,12 @@ Since Titanvest only chooses the top 20 stocks they believe to be high-performin
 * [Volatility](https://www.investopedia.com/terms/v/volatility.asp): How much a stocks value changes in a short period of time. Higher volatility oftens means riskier investment
 * [Stock Universe](https://www.investopedia.com/terms/u/universeofsecurities.asp): Collection of equities being traded
 
+## Tools/Resources used
+* 13F Reports from [WhaleWisdom](https://whalewisdom.com/)
+* Developed backtesting strategy on [Quantopian](https://www.quantopian.com/home)
+* Backtests written in python 3.5
+* Zipline API used in Quantopian backtest
+
 ## Selecting Stock Universe
 
 ## Equally Weighted Portfolio
