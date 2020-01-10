@@ -89,9 +89,9 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 
 #### My Portfolio
 
-<img src="data_and_backtests/backtests/unequal_weights/my_port/main/e-titan-main.png" alt="drawing" width="500"/>
-<img src="data_and_backtests/backtests/unequal_weights/my_port/performancee-titan-perf.png" alt="drawing" width="300"/>
-<img src="data_and_backtests/backtests/unequal_weights/my_port/risk/e-titan-risk.png" alt="drawing" width="300"/>
+<img src="data_and_backtests/backtests/unequal_weights/my_port/main/e-my_port-main.png" alt="drawing" width="500"/>
+<img src="data_and_backtests/backtests/unequal_weights/my_port/performance/e-my_port-perf.png" alt="drawing" width="300"/>
+<img src="data_and_backtests/backtests/unequal_weights/my_port/risk/e-my_port-risk.png" alt="drawing" width="300"/>
 
 #### Comparisons
 
