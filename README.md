@@ -1,4 +1,4 @@
-# Basis Portfolio Selection and Analysis
+# Basic Portfolio Selection and Analysis
 
 ## Introduction
 ### Inspiration
@@ -28,10 +28,14 @@ Since Titanvest only chooses the top 20 stocks they believe to be high-performin
 * Zipline API used in Quantopian backtest
 
 ## Selecting Stock Universe
+To start finding stocks that hedge funds are invested in for the long term, I downloaded the 13F reports for 11 of the top performing hedge funds with large assets under management(AUM). After collecting all of this data into one place, I weighted both total capital invested in that stock along with the percentage that position represents in a hedge funds total holdings. This allowed me to rank the stocks into the top 20.
 
-## Equally Weighted Portfolio
+## Backtesting
+After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentim based strategy.
 
-## Portfolio with changing weights
+### Equally Weighted Portfolio
+
+### Portfolio with changing weights
 
 ## Conclusion
 
