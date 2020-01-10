@@ -102,6 +102,9 @@ In conclusion, I believe I did well in terms of finding stocks from 13F forms as
 
 ## References
 [Quantopian](https://www.quantopian.com/home)
+
 [Quantopian Forums](https://www.quantopian.com/posts)
+
 [Investopedia](https://www.investopedia.com/)
+
 [Towards Data](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
