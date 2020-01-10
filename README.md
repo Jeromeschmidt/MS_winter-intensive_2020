@@ -31,7 +31,7 @@ Since Titanvest only chooses the top 20 stocks they believe to be high-performin
 To start finding stocks that hedge funds are invested in for the long term, I downloaded the 13F reports for 11 of the top performing hedge funds with large assets under management(AUM). After collecting all of this data into one place, I weighted both total capital invested in that stock along with the percentage that position represents in a hedge funds total holdings. This allowed me to rank the stocks into the top 20.
 
 Titanvest | My Portfolio
---- | --- | ---
+--- | ---
 TDG | SGEN
 AAPL | SPY 
 MA | INCY 
