@@ -65,7 +65,7 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 
 ### Equally Weighted Portfolio
 #### Titanvest 
-![alt text](https://github.com/Jeromeschmidt/MS_winterintensive_2020/blob/master/data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png "test")
+!(https://github.com/Jeromeschmidt/MS_winterintensive_2020/blob/master/data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png?raw=true)
 
 
 #### My Portfolio
