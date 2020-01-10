@@ -7,7 +7,7 @@
 - [alpha](https://www.investopedia.com/terms/a/alpha.asp): Metric used to measure investing success. Typically uses S&P 500 to compare results
 - [beta](https://www.investopedia.com/terms/b/beta.asp): Shows how a specific stock to portfolio of stock corrolates with market trends
 - [sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp): Used to compare investments return to its risk. Higher that better.
--- >1 is considered good
+  - >1 is considered good
 -- >2 is considered great
 -- >3 is considered excellent
 -- <1 is considered sub-optimal
