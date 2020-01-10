@@ -67,9 +67,13 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 #### Titanvest 
 
 <img src="data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png" alt="drawing" width="500"/>
+<img src="data_and_backtests/backtests/equal_weights/titan/performance/e-titan-perf.png" alt="drawing" width="300"/>
+<img src="data_and_backtests/backtests/equal_weights/titan/risk/e-titan-risk.png" alt="drawing" width="300"/>
 
 
 #### My Portfolio
+
+<img src="data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png" alt="drawing" width="500"/>
 
 #### Comparisons
 
