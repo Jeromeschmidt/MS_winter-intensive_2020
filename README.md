@@ -31,7 +31,7 @@ Since Titanvest only chooses the top 20 stocks they believe to be high-performin
 To start finding stocks that hedge funds are invested in for the long term, I downloaded the 13F reports for 11 of the top performing hedge funds with large assets under management(AUM). After collecting all of this data into one place, I weighted both total capital invested in that stock along with the percentage that position represents in a hedge funds total holdings. This allowed me to rank the stocks into the top 20.
 
 ## Backtesting
-After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentim based strategy. All backtests were run with an initial capital of $10,000,000. Dates included were from 2011-01-04 to 2020-01-05
+After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentim based strategy. All backtests were run with an initial capital of $10,000,000. Dates included were from 2011-01-04 to 2020-01-05 *separate paragraph*
 *STRUCTURAL CONSTRAINTS MET and RISK CONSTRAINTS MET can be ignored, those have to do with Quantopian hosted competitions*
 
 ### Equally Weighted Portfolio
