@@ -1,1 +1,12 @@
-# MS_winter-intensive_2020
+# Portfolio selection and analysis
+
+## Introduction
+### Inspiration
+
+## Things to Know
+
+## Equally Weighted Portfolio
+
+## Portfolio with changing weights
+
+## Conclusion
