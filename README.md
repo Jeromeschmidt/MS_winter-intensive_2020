@@ -32,6 +32,7 @@ To start finding stocks that hedge funds are invested in for the long term, I do
 
 ## Backtesting
 After collecting the 20 stocks I was going to use and compare to the positions Titanvest chose, I began building my backtests on Quantopian. First I would test to see what the returns were like if all of the capital was split evenly for each equity and then again try using a momentim based strategy. All backtests were run with an initial capital of $10,000,000. Dates included were from 2011-01-04 to 2020-01-05
+*STRUCTURAL CONSTRAINTS MET and RISK CONSTRAINTS MET can be ignored, those have to do with Quantopian hosted competitions*
 
 ### Equally Weighted Portfolio
 #### Titanvest
