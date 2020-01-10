@@ -4,7 +4,7 @@
 ### Inspiration
 I was first inspired to begin this project when I first heard about the compant Titanvest(YC S18). The premise of their initial product was to analyze the 13F reports hedge funds managing over $100,000,000 in capital must report that contain their holdings. By doing this, they can in theory create a portfolio of high performing stocks with a minimal amount of research. Not needing to do as much research allows them to have less staff and therefore charge less overall. Typically hedge funds have charged a 2% management fee along with a 20% performance fee and Titanvest is able to charge only a 1% performance fee. Since first launching, they have consistantly out performed the S&P 500 by a significant amount. *separate paragraph*
 
-test
+Since Titanvest only chooses the top 20 stocks they believe to be high-performing so I planned to do the same. After selecting those, I would backtest that collection of stocks,equally weighting them just as Titanvest does, and compare that to the portfolio that they have constructed to see if they would achieve similar results. After that, I would try alternative methods of weighted different equities in the portfolio to see if better results could be easily achieved. Using strategies like 2-3 moving averages, I backtested these as well to see ifbetter results were reasonably more achievable
 
 
 ## Things to Know
