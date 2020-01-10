@@ -65,9 +65,8 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 
 ### Equally Weighted Portfolio
 #### Titanvest 
-![](data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png =100x20)
 
-<img src="data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png" alt="drawing" width="200"/>
+<img src="data_and_backtests/backtests/equal_weights/titan/main/e-titan-main.png" alt="drawing" width="500"/>
 
 
 #### My Portfolio
