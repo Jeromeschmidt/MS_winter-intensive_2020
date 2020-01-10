@@ -4,8 +4,8 @@
 ### Inspiration
 
 ## Things to Know
-[alpha](https://www.investopedia.com/terms/a/alpha.asp)
-[beta](https://www.investopedia.com/terms/b/beta.asp)
+- [alpha](https://www.investopedia.com/terms/a/alpha.asp)
+- [beta](https://www.investopedia.com/terms/b/beta.asp)
 [sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp)
 [leverage](https://www.investopedia.com/terms/l/leverage.asp)
 [turnover](https://www.investopedia.com/terms/t/turnoverratio.asp)
