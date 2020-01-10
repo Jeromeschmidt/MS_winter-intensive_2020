@@ -78,6 +78,7 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 <img src="data_and_backtests/backtests/equal_weights/my_port/risk/my_port_risk.png" alt="drawing" width="300"/>
 
 #### Comparisons
+From the backtests results above, it is easy to see that over the timespan we tested, the Titanvest portfolio outperformed the portfolio I constructed by a significant amount with ~300% greater returns. It is also important to note that it also had a higher sharpe ratio, meaning that its investments were of a higher quality than my portfolio
 
 ### Portfolio with changing weights
 #### Titanvest
@@ -94,7 +95,9 @@ After collecting the 20 stocks I was going to use and compare to the positions T
 <img src="data_and_backtests/backtests/unequal_weights/my_port/risk/ue-my_port-risk.png" alt="drawing" width="300"/>
 
 #### Comparisons
+The alternative way of weighting the positions in the backtests was a variation of a momenntum trading model. It would look at price changes for the last 3 days to try to predict if a particular position would increase or decrease. It is also clear that even though we were trying to optimize the portfolio for higher returns, the opposite happened. While there were positive returns, they were not as large as if the equities were just equally weighted. The Sharpe ratio also decreased.
 
 ## Conclusion
+In conclusion, I believe I did well in terms of finding stocks from 13F forms as compared to Titanvest. While Titanvest moniters about 175 different hedge funds, I only looked at 11 of them and performance wasnt as good, it was greater than the performance of the S&P 500 during that time span. I also hoped to implement a more sophisticated method for weighting the stocks in the portfolio in an unequal way but due to time constraints and not much knowledge in the area, I was unable to do this. I hope to continue to improve on the methods I employed here to optimize performance and learn in more depth what it takes to build a successful quantitative trading model
 
 ## References
